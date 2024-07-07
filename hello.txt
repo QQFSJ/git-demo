@@ -3,3 +3,4 @@ hello svn
 hello branch
 hello master
 hello hot-fix
+hello git-demo
